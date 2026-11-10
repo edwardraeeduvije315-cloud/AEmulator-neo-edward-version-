@@ -12,7 +12,7 @@
 
 ---
 
-AEmulator Neon boots a real Android 1.0–17 system image straight from a firmware file you already have. It translates the old ARM code with a patched QEMU, emulates the kernel’s binder, draws with your phone’s GPU and plays sound through Android’s audio stack - everything runs inside a normal app. This project was made almost entirely with the help of various AIs (and the original aemu with Opus 5.5).
+so this is not finish yet i am trying to do beta/alpha 1.0
 
 ## Features
 
