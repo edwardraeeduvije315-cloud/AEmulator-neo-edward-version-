@@ -2,7 +2,7 @@
 
 <img src="docs/assets/neo-logo.jpg" width="128" alt="AEmulator Neo logo"/>
 
-# AEmulator Neo
+# AEmulator Neo edward version 
 
 **A fork of [AEmulator Plus](https://github.com/somerandomusernam2/AEmulator-Plus) which is a fork of [AEmulator Sunset](https://github.com/drel4/AEmulator-Sunset) which is a fork of [AEmulator](https://github.com/uxazu/AEmulator) with mostly new customization and QoL features.
 
