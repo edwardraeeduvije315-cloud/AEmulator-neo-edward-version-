@@ -12,7 +12,7 @@
 
 ---
 
-so this is not finish yet i am trying to do beta/alpha 1.0
+so this is not finish yet i am trying to do beta/alpha 1.0 ( oh my god i'm going to delay my app even more because of my ugly apk editor that have so many errors) 
 
 ## Features
 
